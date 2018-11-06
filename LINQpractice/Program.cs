@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace LINQpractice
 {
-    class Program
+    class Program 
     {
         static void Main(string[] args)
         {
